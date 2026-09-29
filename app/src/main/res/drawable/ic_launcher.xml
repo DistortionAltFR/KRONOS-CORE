@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Dark Ultra Background -->
+    <path
+        android:fillColor="#020617"
+        android:pathData="M0,0h108v108h-108z"/>
+
+    <!-- Corporate Slate Outer Hexagon -->
+    <path
+        android:fillColor="#0F172A"
+        android:strokeColor="#334155"
+        android:strokeWidth="3"
+        android:pathData="M54,16 L86,34.5 L86,73.5 L54,92 L22,73.5 L22,34.5 Z"/>
+
+    <!-- K Circuit Left Vertical Bar -->
+    <path
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="6"
+        android:strokeLineCap="round"
+        android:pathData="M40,36 L40,72"/>
+
+    <!-- K Circuit Top Diagonal Branch -->
+    <path
+        android:strokeColor="#10B981"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M40,54 L68,36"/>
+
+    <!-- K Circuit Bottom Diagonal Branch -->
+    <path
+        android:strokeColor="#10B981"
+        android:strokeWidth="5"
+        android:strokeLineCap="round"
+        android:pathData="M40,54 L68,72"/>
+
+    <!-- Circuit Glowing Nodes -->
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M40,36 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0"/>
+    <path
+        android:fillColor="#38BDF8"
+        android:pathData="M40,72 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0"/>
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M68,36 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0"/>
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M68,72 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0"/>
+</vector>
